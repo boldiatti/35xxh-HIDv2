@@ -1,1 +1,1 @@
-# 35xxh-HIDv2
+build v2# 35xxh-HIDv2
